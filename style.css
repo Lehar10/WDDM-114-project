@@ -1,0 +1,28 @@
+body {
+    background-color: rosybrown;
+}
+p { font-size: 120%; 
+    color: black;}
+
+p.important { border-style: solid; 
+    display: inline-block; 
+    border-width: 5px;
+     border-color:black; } 
+
+.center { display: block;
+     margin: auto;} 
+
+.centertext { text-align: center; }  
+
+figure{
+    float: bottom;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    padding-top: 100;
+}
+figcaption {
+    caption-side: bottom;
+}
+img{ border-radius: 50% ;}
